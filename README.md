@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sabrina
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning React Native and Unit Testing 
+- 👀 I’m interested in Fullstack Development
+- 🌱 I’m currently learning NodeJS 
 - 📫 You can reach to me at sabrinaealvarez@gmail.com
 
 <!---
